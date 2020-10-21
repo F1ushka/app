@@ -101,7 +101,7 @@ client.login(ayarlar.token);
 client.on('ready', () => {
     client.user.setPresence({
         game: {
-            name: `!botekle Discord BotList`,
+            name: `NarcosCode botlist altyapısı`,
             type: 'WATCHING'
             // Değerler:
             // PLAYING: Oynuyor
