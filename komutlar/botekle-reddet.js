@@ -17,7 +17,7 @@ exports.run = function(client, message, args) {
   let sebep7 = args[9];
   let sebep8 = args[10];
   let sebep9 = args[11];
-  let log = "742455429677842533"; // bot eklendi / onaylandı / reddedildi kanalı
+  let log = "781126225896013834"; // bot eklendi / onaylandı / reddedildi kanalı
 
   if (!narcoscodisim)
     return message.channel

@@ -7,7 +7,7 @@ exports.run = function(client, message, args) {
     );
   let narcoscodisim = args[0];
   let sahip = args[1];
-  let log = "742455429677842533"; // bot eklendi / onaylandı / reddedildi kanalı
+  let log = "781126225896013834"; // bot eklendi / onaylandı / reddedildi kanalı
 
   if (!narcoscodisim)
     return message.channel

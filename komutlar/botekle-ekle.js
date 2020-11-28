@@ -4,9 +4,9 @@ exports.run = function(client, message, args) {
   let narcoscodid = args[0];
   let prefix = args[1];
   let onaylımı = args[2];
-  let basvuru = "742455515682177157"; // başvurunun gideceği kanal
-  let kanal = "742455440062939167"; // başvurunun yapılacağı kanal
-  let log = "742455429677842533"; // bot eklendi / onaylandı / reddedildi kanalı
+  let basvuru = "780831392791527436"; // başvurunun gideceği kanal
+  let kanal = "780831056134930452"; // başvurunun yapılacağı kanal
+  let log = "781126225896013834"; // bot eklendi / onaylandı / reddedildi kanalı
 
   if (message.channel.id !== kanal)
     return message.channel
