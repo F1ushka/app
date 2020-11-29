@@ -12,9 +12,9 @@
   "dependencies": {
     "chalk": "^4.1.0",
     "discord.js": "^12.5.0",
-    "express": "^4.16.4",
+    "express": "^4.17.1",
     "fs": "^0.0.2",
-    "moment": "^2.27.0"
+    "moment": "^2.29.1"
   },
   "engines": {
     "node": "8.x"
