@@ -11,7 +11,7 @@ const slots = ["🍇", "🍊", "🍐", "🍒", "🍋"];
 
 exports.run = async(client, message, args) => {
 
-var FwhyCode = slots[Math.floor(Math.random() * slots.length)];
+var NeonDev = slots[Math.floor(Math.random() * slots.length)];
 var FwhyCode2 = slots[Math.floor(Math.random() * slots.length)];
 var FwhyCode3 = slots[Math.floor(Math.random() * slots.length)];
 

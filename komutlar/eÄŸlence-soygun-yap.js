@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 
-const PlasmicSoygun = [
+const NeonSoygun = [
   "52 ABD Doları Soydun",
   "31 ABD Doları Soydun",
   "tüühh be polis geldi gaç!",
@@ -32,7 +32,7 @@ if (!message.guild) {
     .setAuthor(message.author.username, message.author.avatarURL)
     .addField('**Komutları Özel Mesajlarda Kullanılamaz!**')
     return message.author.send(ozelmesajuyari); }
-  const soygun = PlasmicSoygun[Math.floor(Math.random() * PlasmicSoygun.length)];
+  const soygun = NeonSoygun[Math.floor(Math.random() * NeonSoygun.length)];
   message.channel.send(
 
   "**Soygunun yapılacağı mekan seciliyor..**"
