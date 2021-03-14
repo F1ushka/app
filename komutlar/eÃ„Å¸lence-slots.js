@@ -12,13 +12,13 @@ const slots = ["🍇", "🍊", "🍐", "🍒", "🍋"];
 exports.run = async(client, message, args) => {
 
 var NeonDev = slots[Math.floor(Math.random() * slots.length)];
-var FwhyCode2 = slots[Math.floor(Math.random() * slots.length)];
-var FwhyCode3 = slots[Math.floor(Math.random() * slots.length)];
+var NeonDev = slots[Math.floor(Math.random() * slots.length)];
+var NeonDev = slots[Math.floor(Math.random() * slots.length)];
 
-  if (FwhyCode === FwhyCode2 && FwhyCode === FwhyCode) { return message.channel.send(stripIndents`**Tebrikler, kazandınız!** \n\n${FwhyCode} **:** ${FwhyCode2} **:** ${FwhyCode3}`);
+  if (NeonDev === NeonDev && NeonDev === NeonDev) { return message.channel.send(stripIndents`**Tebrikler, kazandınız!** \n\n${NeonDev} **:** ${NeonDev} **:** ${NeonDev}`);
 
   } else {
-   return message.channel.send(stripIndents`**Eyvah, kaybettin!** \n\n${FwhyCode} **:** ${FwhyCode2} **:** ${FwhyCode3}`);
+   return message.channel.send(stripIndents`**Eyvah, kaybettin!** \n\n${NeonDev} **:** ${NeonDev} **:** ${NeonDev}`);
   }
 };
 
